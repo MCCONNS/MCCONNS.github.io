@@ -92,7 +92,7 @@ portfolio:
     - name: Minecraft Bedrock Edition
       image: 'images/portfolio/BE.png'
       url: https://www.xbox.com/zh-cn/games/store/minecraft-for-windows/9nblggh2jhxj
-      description: Address：mcconn.cn - Port：17444
+      description: Address：be.mcconn.cn - Port：17444
 
     - name: Minecraft Java & Bedrock Edition for PC
       image: 'images/portfolio/JE&BE.png'
