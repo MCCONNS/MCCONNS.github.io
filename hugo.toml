@@ -1,6 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://MCC.github.io"
-title = "MCCS"
+baseURL = "https://www.mcconn.cn"
 theme = "port-hugo"
 languageCode ='zh'
 defaultContentLanguage = 'zh-cn'
@@ -41,8 +40,7 @@ link = "plugins/hugrid/hugrid.min.js"
 
 # main menu
 [[menu.main]]
-name = "MCCS"
-URL = "#home"
+name = "首页"
 weight = 1
 
 [[menu.main]]

@@ -9,9 +9,9 @@ hero:
     - '支持 主机端 √'
 
   # hero background image
-  bg_image: 'images/SC1.jpg'
+  bg_image: 'images/background.jpg'
   # optional mobile breakpoint background
-  mobile_bg_image: 'CC1.jpg'
+  mobile_bg_image: 'images/gus_small.jpg'
 
 ########################### About ##################################
 about:
