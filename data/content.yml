@@ -1,0 +1,101 @@
+########################## hero area ##########################
+hero:
+  title: "MCCONN服务器"
+
+  # animated text loop
+  occupations:
+    - '支持 电脑端 √'
+    - '支持 移动端 √'
+    - '支持 主机端 √'
+
+  # hero background image
+  bg_image: 'images/SC1.jpg'
+  # optional mobile breakpoint background
+  mobile_bg_image: 'CC1.jpg'
+
+########################### About ##################################
+about:
+  enable: true
+  title: 'MineCraft Connected Server'
+  content: MCCS 是一个基于 spigot-1.21.5 构建的我的世界原版生存服务器。得益于 Geyser & Viaversion 强大的兼容性，支持各平台跨版本联机。（1.7-1.21）
+  button:
+    enable: true
+    label: '1.21.5 客户端'
+    link: 'https://www.123865.com/s/9dl9jv-VX8Sv'
+    icon: 'fa-download'
+
+###########################3 Experience ##############################
+experience:
+  enable: true
+  title: '支持平台'
+  experience_list:
+    - name: 电脑端
+      company: Personal Computer
+      duration: 'x86'
+      content: Linux, MacOS, Windows
+
+    - name: 移动端
+      company: Mobile Device
+      duration: 'arm'
+      content: Android, iOS
+
+    - name: 主机端
+      company: Game Console
+      duration: 'arm/x86'
+      content: PlayStation, Switch, Xbox
+
+############################### Skill #################################
+skill:
+  enable: false
+  title: 'SOME SKILLS'
+  showpercent: false
+  skill_list:
+    - name: 'React'
+      percentage: '85%'
+
+    - name: 'Detecting'
+      percentage: '93%'
+
+    - name: 'Selling'
+      percentage: '25%'
+
+    - name: 'Yelling'
+      percentage: '100%'
+
+######################### funfacts #############################3
+funfacts:
+  enable: false
+  funfacts_list:
+    - name: 'CUPS PER DAY'
+      url: http://baidu.com
+      image: 'images/icons/coffee.png'
+      count: '2'
+
+    - name: 'SITES BUILT'
+      image: 'images/icons/web-development.png'
+      count: '25'
+
+    - name: 'USELESS ROW OF ICONS'
+      image: 'images/icons/happy.png'
+      count: '1'
+
+############################# portfolio ################################
+portfolio:
+  enable: true
+  title: '加入服务器'
+  portfolio_list:
+    - name: Minecraft Java Edition
+      image: 'images/portfolio/MC.png'
+      url: https://www.minecraft.net/zh-hans/about-minecraft
+      description: Address：mcconn.cn
+
+    - name: Minecraft Bedrock Edition
+      image: 'images/portfolio/BE.png'
+      url: https://www.xbox.com/zh-cn/games/store/minecraft-for-windows/9nblggh2jhxj
+      description: Address：mcconn.cn - Port：17444
+
+    - name: Minecraft Java & Bedrock Edition for PC
+      image: 'images/portfolio/JE&BE.png'
+      url: https://www.xbox.com/zh-cn/games/store/minecraft-java-bedrock-edition-for-pc/9nxp44l49shj
+      description: Windows & Xbox
+
