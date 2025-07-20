@@ -19,7 +19,7 @@ hero:
 about:
   enable: true
   title: 'Minecraft Connected Spigot & Forge Server'
-  content: 基于 Spigot & Forge 构建的我的世界原版/模组生存服务器。
+  content: 基于 Spigot & Forge 构建的我的世界原版&模组生存服务器。
   button:
     enable: true
     label: '下载客户端'
