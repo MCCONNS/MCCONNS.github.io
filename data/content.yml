@@ -4,9 +4,11 @@ hero:
 
   # animated text loop
   occupations:
-    - '支持 电脑端 √'
-    - '支持 移动端 √'
-    - '支持 主机端 √'
+    - 'MTR铁路'
+    - '机械动力'
+    - '枪械工坊'
+    - '丰富的生态'
+    - '跨平台原版生存'
 
   # hero background image
   bg_image: 'images/background.jpg'
@@ -16,11 +18,11 @@ hero:
 ########################### About ##################################
 about:
   enable: true
-  title: 'MineCraft Connected Server'
-  content: MCCS 是一个基于 spigot-1.21.5 构建的我的世界原版生存服务器。得益于 Geyser & Viaversion 强大的兼容性，支持各平台跨版本联机。（1.7-1.21）
+  title: '关于MCCONN'
+  content: 一个基于 1.19.2 版本构建的我的世界 Forge 模组生存类服务器。另有支持各平台跨版本联机的基岩原版生存服。
   button:
     enable: true
-    label: '1.21.5 客户端'
+    label: '下载客户端'
     link: 'https://www.123865.com/s/9dl9jv-VX8Sv'
     icon: 'fa-download'
 
@@ -29,20 +31,15 @@ experience:
   enable: true
   title: '支持平台'
   experience_list:
-    - name: 电脑端
-      company: Personal Computer
-      duration: 'x86'
-      content: Linux, MacOS, Windows
+    - name: JAVA版
+      company: 1.19.2
+      duration: '模组生存'
+      content: 铁路, 机械, 枪械
 
-    - name: 移动端
-      company: Mobile Device
-      duration: 'arm'
-      content: Android, iOS
-
-    - name: 主机端
-      company: Game Console
-      duration: 'arm/x86'
-      content: PlayStation, Switch, Xbox
+    - name: 基岩版
+      company: 1.21.5
+      duration: '原版生存'
+      content: 1.7-1.21跨版本联机
 
 ############################### Skill #################################
 skill:
@@ -92,7 +89,7 @@ portfolio:
     - name: Minecraft Bedrock Edition
       image: 'images/portfolio/BE.png'
       url: https://www.xbox.com/zh-cn/games/store/minecraft-for-windows/9nblggh2jhxj
-      description: Address：be.mcconn.cn - Port：17444
+      description: Address：be.mcconn.cn - Port：37032
 
     - name: Minecraft Java & Bedrock Edition for PC
       image: 'images/portfolio/JE&BE.png'
