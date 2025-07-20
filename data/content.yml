@@ -84,15 +84,15 @@ portfolio:
     - name: Minecraft Java Edition
       image: 'images/portfolio/MC.png'
       url: https://www.minecraft.net/zh-hans/about-minecraft
-      description: [V] Server version
+      description: (V) Server version
 
     - name: Minecraft Bedrock Edition
       image: 'images/portfolio/BE.png'
       url: https://www.xbox.com/zh-cn/games/store/minecraft-for-windows/9nblggh2jhxj
-      description: [X] Windows version
+      description: (X) Windows version
 
     - name: Minecraft Java & Bedrock Edition for PC
       image: 'images/portfolio/JE&BE.png'
       url: https://www.xbox.com/zh-cn/games/store/minecraft-java-bedrock-edition-for-pc/9nxp44l49shj
-      description: [O] Other versions
+      description: (O) Other versions
 
