@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://mcconn.cn"
-title = "MCCS | 我的世界服务器"
+title = "MCCONN | 我的世界服务器"
 theme = "port-hugo"
 languageCode ='zh'
 defaultContentLanguage = 'zh-cn'
@@ -50,7 +50,7 @@ URL = "#about"
 weight = 2
 
 [[menu.main]]
-name = "开始游玩"
+name = "支持"
 URL = "#portfolio"
 weight = 3
 
